@@ -124,3 +124,6 @@ node index.js
 ### 定制唤醒词
 
 请访问[snowboy.kitt.ai](http://snowboy.kitt.ai/) 训练自己的唤醒模型，并且修改snowboy.js中模型相关的配置
+
+### License
+dcs is released under an MIT license. See LICENSE for more information.
